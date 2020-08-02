@@ -77,4 +77,17 @@ img, video {
 		flex: 50%;
 		max-width:50%;
 	}
+	a:visited{
+		color: rgb(75, 0, 130);
+	}a:focus {
+		color: navy;
+	}
+	a:hover{
+		color: white;
+		text-decoration-line: underline;
+		cursor: pointer;
+	}
+	a:active {
+		color: navy;
+	}
 }

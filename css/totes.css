@@ -93,4 +93,17 @@ div.everyone {
 		flex: 50%;
 		max-width:70%;
 	}
+	a:visited{
+		color: rgb(75, 0, 130);
+	}
+	a:focus {
+		color: navy;
+	}
+	a:hover{
+		color: white;
+		text-decoration-line: underline;
+	}
+	a:active {
+		color: navy;
+	}
 }
